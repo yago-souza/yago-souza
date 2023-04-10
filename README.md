@@ -17,5 +17,5 @@
   <img align="center" alt="Yago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-Movido a curiosidade! <br>
+Movido a curiosidade! <br><br>
 Em algum lugar, algo incrível está esperando para ser descoberto. 🌌
